@@ -1,2 +1,1 @@
-* * * Torre de Hanoi * * *
-      linguagem c++
+Torre de Hanoi: linguagem c++
